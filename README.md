@@ -20,7 +20,6 @@ I/O, selection
 
 Arrays, 1D and 2D
 
-25 points
 2. Write a class called "Scores".  Its main method should use a Scanner
    to input the name and 5 quiz scores for each of 10 different people.  
    Store the names in a 1D-array, and the scores in a 2D-array.  Then print 
@@ -29,7 +28,6 @@ Arrays, 1D and 2D
 
 Classes and Objects
 
-25 points
 3. Write a class called "Square".  It should store the length of one side.
    It should have two constructors, one that has no parameters and sets
    the side length to one.  The other constructor should take one parameter
@@ -42,7 +40,6 @@ Classes and Objects
 
 Generic classes
 
-25 points
 4.  Write a generic class called "MyFour".  It should use a type parameter
     of "T".  It should have four fields, item1, item2, item3, item4, all of
     type T.  Its constructor receives values for setting all four items.  It
